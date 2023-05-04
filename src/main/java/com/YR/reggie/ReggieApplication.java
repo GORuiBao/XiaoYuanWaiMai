@@ -9,7 +9,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 /**
  * ClassName: ReggieApplication
- * Description:  测试git修改
+ * Description:  测试git修改是否成功
  * date: 2023/4/18 0018 23:53
  *
  * @author YR
